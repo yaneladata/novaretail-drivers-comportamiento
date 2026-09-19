@@ -107,6 +107,17 @@ Tipo de Relación ─┼─── Binaria vs. Numérica ────────
 ---
 
 ## 📂 Estructura del repositorio
+
+```text
+├── visualizaciones/                                    <- Gráficos del análisis
+│   
+├── conjunto de datos/                                                <- Fuentes de datos 
+│   ├── tomtom_traffic.csv                               <- Tráfico transaccional TomTom
+│   ├── oecd_city_economy.csv                            <- Macroeconomía OECD 
+├── notebook/
+│   └── S5 ladb_mobility_economy_project_student.ipynb   <- Notebook estructurado con limpieza y análisis
+└── README.md                                            <- Informe ejecutivo y documentación del proyecto
+
 - `readme.md`
 - `data/` → datasets original.
 - `notebook/` → notebook de análisis.
