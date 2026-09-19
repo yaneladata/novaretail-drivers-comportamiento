@@ -87,7 +87,7 @@ Este es un análisis **correlacional (exploratorio)** — no busca ni permite es
 ## 📂 Estructura del repositorio
 - `readme.md`
 - `data/` → datasets original.
-- `notebooks/` → notebooks de análisis.
+- `notebook/` → notebook de análisis.
 - `visualizaciones/` → gráficos generados.
 
 ---
