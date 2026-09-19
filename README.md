@@ -109,18 +109,12 @@ Tipo de Relación ─┼─── Binaria vs. Numérica ────────
 ## 📂 Estructura del repositorio
 
 ```text
-├── visualizaciones/                                     <- Gráficos del análisis
-├── datasets/                                            <- Fuentes de datos 
-│   ├── tomtom_traffic.csv                               <- Tráfico transaccional TomTom
+├── visualizaciones/                                         <- Gráficos del análisis
+├── datasets/                                                <- Fuentes de datos 
+│   ├── novaretail_comportamiento_clientes_2024.csv      <- Tráfico transaccional TomTom
 ├── notebook/
-│   └── S8_Project_NovaRetail.ipynb.ipynb                <- Notebook estructurado con limpieza y análisis
-└── README.md                                            <- Informe ejecutivo y documentación del proyecto
-
-- `readme.md`
-- `data/` → datasets original.
-- `notebook/` → notebook de análisis.
-- `visualizaciones/` → gráficos generados.
+│   └── S8_Project_NovaRetail.ipynb.ipynb                    <- Notebook estructurado con limpieza y análisis
+└── README.md                                                <- Informe ejecutivo y documentación del proyecto
 
 ---
 
-Este proyecto forma parte de mi portfolio de análisis de datos, con énfasis en el rigor metodológico al distinguir correlación de causalidad y en traducir hallazgos estadísticos en implicaciones de negocio accionables.
