@@ -113,7 +113,7 @@ Tipo de Relación ─┼─── Binaria vs. Numérica ────────
 ├── datasets/                                            <- Fuentes de datos 
 │   ├── tomtom_traffic.csv                               <- Tráfico transaccional TomTom
 ├── notebook/
-│   └── S5 ladb_mobility_economy_project_student.ipynb   <- Notebook estructurado con limpieza y análisis
+│   └── S8_Project_NovaRetail.ipynb.ipynb                <- Notebook estructurado con limpieza y análisis
 └── README.md                                            <- Informe ejecutivo y documentación del proyecto
 
 - `readme.md`
